@@ -1,0 +1,4 @@
+Hola mundo.
+Primera clase con comandos de shell.
+v1=`wc -l f4.txt|awk '{print $1}'`
+echo $v1

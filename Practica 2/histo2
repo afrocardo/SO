@@ -1,0 +1,442 @@
+    1  sudo su
+    2  su root
+    3  sudo root
+    4  su root
+    5  nano gcc
+    6  man gcc
+    7  gcc f1.c
+    8  nano f1.c
+    9  gcc
+   10  nano f1.c
+   11  gcc f1.c
+   12  nano f1.c
+   13  gcc f1.c
+   14  nano f1.c
+   15  gcc f1.c
+   16  nano f1.c
+   17  gcc f1.c
+   18  nano f1.c
+   19  gcc f1.c
+   20  sudo apt-get install build-essential
+   21  gcc f1.c
+   22  nano f1.c
+   23  gcc f1.c
+   24  gcc -o p1 f1.c
+   25  ./p1
+   26  nano padrehijo.c
+   27  gcc -o padrehijo padrehijo.c
+   28  ./padrehijo 
+   29  gcc -o padrehijo padrehijo.c
+   30  nano padrehijo.c
+   31  ./padrehijo 
+   32  nano padrehijo.c
+   33  gcc -o padrehijo padrehijo.c
+   34  ./padrehijo 
+   35  nano padrehijo.c
+   36  gcc -o padrehijo padrehijo.c
+   37  nano padrehijo.c
+   38  gcc -o padrehijo padrehijo.c
+   39  ./padrehijo 
+   40  nano padrehijo.c
+   41  gcc -o padrehijo padrehijo.c
+   42  ./padrehijo 
+   43  nano padrehijo.c
+   44  gcc -o padrehijo padrehijo.c
+   45  ./padrehijo 
+   46  sudo shutdown -h now
+   47  gcc -o ArbolDeNavidad ArbolDeNavidad.c
+   48  ./ArbolDeNavidad 7
+   49  gcc -o ArbolDeNavidad ArbolDeNavidad.c
+   50  ./ArbolDeNavidad 7
+   51  gcc -o ArbolDeNavidad ArbolDeNavidad.c
+   52  ./ArbolDeNavidad 7
+   53  gcc -o ArbolDeNavidad ArbolDeNavidad.c
+   54  ./ArbolDeNavidad 7
+   55  gcc -o ArbolDeNavidad ArbolDeNavidad.c
+   56  ./ArbolDeNavidad 7
+   57  gcc -o ArbolDeNavidad ArbolDeNavidad.c
+   58  ./ArbolDeNavidad 7
+   59  cd Descargas/
+   60  ls
+   61  python main4.py 
+   62  cat main4.py 
+   63  python main4.py 
+   64  ls
+   65  ls -al
+   66  python3 main4.py 
+   67  python3 main2.py 
+   68  python3 main4.py 
+   69  python3 main2.py 
+   70  python3 main.py
+   71  cat main.py 
+   72  python3 main.py
+   73  python3 Py.py3
+   74  g++  main.cpp
+   75  ls
+   76  a.out
+   77  ./a.out
+   78  df
+   79  ls
+   80  python3 cuantopesa3.py 
+   81  ./a.out
+   82  python3 peso.py 
+   83  python3 envio.py 
+   84  su apt-get install rpcbind
+   85  sudo su
+   86  cd puesto
+   87  cd Tarea1
+   88  nano conexiones.h
+   89  nano cliente.c
+   90  gcc -o cliente -c cliente.c 
+   91  gcc 
+   92  -
+   93  o cliente 
+   94  -
+   95  I /usr/include/tirpc cliente.c 
+   96  -
+   97  l tirpc
+   98  gcc -o cliente -I /usr/include/tirpc cliente.c -I tirpc
+   99  nano servidor.c
+  100  cd Tarea1
+  101  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  102  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  103  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  104  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  105  ./servidor
+  106  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  107  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  108  ./servidor
+  109  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  110  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  111  ./servidor
+  112  jobs
+  113  cd Tarea1
+  114  ./cliente localhost
+  115  cd Tarea1
+  116  ./cliente localhost
+  117  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  118  cd Tarea1
+  119  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  120  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  121  ./servidor
+  122  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  123  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  124  ./servidor
+  125  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  126  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  127  ./servidor
+  128  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  129  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  130  ./servidor
+  131  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  132  ./servidor
+  133  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  134  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  135  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  136  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  137  ./servidor
+  138  cd Ejercicio1
+  139  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  140  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  141  cd ..
+  142  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  143  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  144  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  145  ./servidor
+  146  clear
+  147  jobs
+  148  cd Tarea1
+  149  cd Ejercicio2
+  150  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  151  ./servidor
+  152  cd ..
+  153  cd Ejercicio3
+  154  ./servidor
+  155  cd Tarea1
+  156  cd Ejercicio3
+  157  ./servidor 
+  158  cd Tarea1
+  159  ./cliente localhost
+  160  cd Ejercicio1
+  161  ./cliente localhost
+  162  cd Ejercicio2
+  163  cd ..
+  164  cd Ejercicio2
+  165  ./cliente localhost
+  166  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  167  ./cliente localhost
+  168  cd ...
+  169  cd ..
+  170  cd Ejercicio3
+  171  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  172  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  173  ./cliente localhost
+  174  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  175  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  176  ./cliente localhost
+  177  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  178  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  179  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  180  ./cliente localhost
+  181  cd Tarea1
+  182  cd Tarea2
+  183  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  184  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  185  ./servidor
+  186  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  187  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  188  ./servidor
+  189  cd Tarea1/
+  190  cd Tarea2
+  191  cd Objetivo3
+  192  ./cliente localhost
+  193  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  194  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  195  ./cliente localhost
+  196  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  197  ./cliente localhost
+  198  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  199  ./cliente localhost
+  200  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  201  ./cliente localhost
+  202  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  203  ./cliente localhost
+  204  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  205  ./cliente localhost
+  206  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  207  ./cliente localhost
+  208  cd ..
+  209  cd remoto
+  210  gcc -o servidor -I /usr/include/tirpc/ servidor.c filtro.c -l tirpc
+  211  ./servidor
+  212  cd ..
+  213  ls
+  214  cd Tarea2
+  215  cd Objetivo3
+  216  gcc -o servidor -I /usr/include/tirpc/ servidor.c filtro.c -l tirpc
+  217  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  218  cd ..
+  219  cd RPCGEN
+  220  nano ejemplo.x
+  221  rpcgen -a ejemplo.x
+  222  ls
+  223  make -f Makefile.ejemplo 
+  224  rpcgen -a ejemplo.x
+  225  make -f Makefile.ejemplo 
+  226  shutdown -h now
+  227  cd Tarea1
+  228  cd Tarea2
+  229  ./cliente localhost
+  230  netstat
+  231  ./cliente 158.49.92.82
+  232  cd Tarea
+  233  gcc -o servidor -I /usr/include/tirpc/ servidor.c -l tirpc
+  234  ifconfig
+  235  ./servidor
+  236  cd ..
+  237  ls
+  238  cd Objetivo3
+  239  gcc -o cliente -I /usr/include/tirpc/ cliente.c -l tirpc
+  240  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  241  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirp
+  242  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  243  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  244  gcc -o cliente -I /usr/include/tirpc/ cliente.c xdr.c -l tirpc
+  245  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  246  ./servidor
+  247  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  248  ./servidor
+  249  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  250  ./servidor
+  251  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  252  ./servidor
+  253  gcc -o servidor -I /usr/include/tirpc/ servidor.c xdr.c -l tirpc
+  254  ./servidor
+  255  cd Tarea1/Tarea3/Sesion_2_AlvaroCorderoCrespo/
+  256  cd Calculadora/
+  257  cd Calculadora/
+  258  rpcgen -a calculadora.x 
+  259  make -f Makefile.calculadora 
+  260  rpcgen -a calculadora.x 
+  261  make -f Makefile.calculadora 
+  262  cd ..
+  263  cd Objetivo2/
+  264  rpcgen -a ejemplo.x 
+  265  cd Documentos/Sesion_3_AlvaroCorderoCrespo/Tarea3/Objetivo3/Final/
+  266  ls
+  267  ./directorio_client localhost
+  268  cd ..
+  269  cd Final2
+  270  make -f Makefile.directorio 
+  271  ./directorio_client localhost
+  272  cd Documentos/
+  273  cd Sesion_3_AlvaroCorderoCrespo/
+  274  cd Tarea
+  275  cd Tarea3
+  276  cd Objetivo3
+  277  cd Final
+  278  rpcgen -a directorio.x 
+  279  make -f Makefile.directorio 
+  280  ./directorio_server 
+  281  make -f Makefile.directorio 
+  282  cd ..
+  283  cd Final2
+  284  rpcgen -a directorio.x 
+  285  make -f Makefile.directorio 
+  286  ./directorio_server 
+  287  ifconfig
+  288  nano /etc/hostname 
+  289  su
+  290  sudo nano /etc/hostname
+  291  grep -R "puesto_All"
+  292  sudo grep -R "puesto_All"
+  293  sudo nano /etc/hosts
+  294  shutdown -r now
+  295  sudo nano /etc/hostname
+  296  sudo nono /etc/host
+  297  sudo nono /etc/hosts
+  298  sudo nano /etc/hosts
+  299  rpcinfo -p
+  300  aptitude install portmap nfs-kernel-server
+  301  sudo aptitude install portmap nfs-kernel-server
+  302  sudo aptitude install nfs-common
+  303  sudo nano /etc/exports
+  304  sudo nano /etc/hosts
+  305  nano /etc/exports
+  306  sudo nano /etc/exports
+  307  nano /etc/hosts.allow
+  308  nano /etc/hosts.deny
+  309  sudo su root
+  310  ifconfig
+  311  nano /etc/hosts
+  312  sudo nano /etc/hosts
+  313  nano /etc/hosts
+  314  cd <escritorio
+  315  cd /Escritorio
+  316  cd Escritorio
+  317  clear
+  318  cd practicaFinalVuelo_FranciscoArestizabal/
+  319  make -f Makefile.vuelos 
+  320  ./vuelos_client localhost
+  321  cd ..
+  322  ls -la
+  323  cd ..
+  324  ls -la
+  325  cd practicaFinalVuelo_FranciscoArestizabal/
+  326  make -f Makefile.vuelos 
+  327  ./vuelos_server 
+  328  cd..
+  329  cd ..
+  330  cd Escritorio/practicaFinalVuelo_FranciscoArestizabal/
+  331  make -f Makefile.vuelos 
+  332  rpcgen -a vuelos.x
+  333  make -f Makefile.vuelos 
+  334  clear
+  335  make -f Makefile.vuelos 
+  336  rpcgen -a vuelos.x
+  337  make -f Makefile.vuelos 
+  338  cd Escritorio/practicaFinalVuelo_FranciscoArestizabal/
+  339  make -f Makefile.vuelos 
+  340  cat /proc/cpuinfo
+  341  ls 7proc
+  342  ls /proc
+  343  pwd
+  344  ls
+  345  ls /
+  346  ls -la
+  347  ls-la
+  348  ls /
+  349  ls /bin
+  350  ls /bin|more
+  351  ls /sbin|more
+  352  ls /etc|more
+  353  cat /etc/hostname
+  354  passwd
+  355  cat /etc/passwd
+  356  ls /etc
+  357  man ls
+  358  whatis ls
+  359  which ls
+  360  whereis ls
+  361  help ls
+  362  man ls
+  363  ls /home
+  364  ls /home/puesto
+  365  ls /dev
+  366  ls /dev/sda1
+  367  ls -la/dev/sad1
+  368  ls -la /dev/sda1
+  369  VAR1="Hola"
+  370  echo $VAR1
+  371  echo $HOME
+  372  cd /etc
+  373  pwd
+  374  cd $HOME
+  375  pwd
+  376  ls -la|more
+  377  cd /home/pepe
+  378  nano /home/pepe f2.txt
+  379  cd
+  380  sudo 
+  381  sudo su
+  382  ls -la
+  383  ls -la /home/pepe
+  384  sudo chown puesto:puesto /home/pepe/f2.txt
+  385  ls -la /home/pepe
+  386  nano miprimershellscript.sh
+  387  bash primershellscript.sh
+  388  bash miprimershellscript.sh
+  389  nano miprimershellscript.sh
+  390  bash miprimershellscript.sh
+  391  pwd
+  392  cal 2015
+  393  cal 2023
+  394  cal 8 2020
+  395  date
+  396  date "+%F"
+  397  date "%d%m%y"
+  398  date "+%d-%m-%y"
+  399  date "+%H-%M-%S"
+  400  date "+%H:-%M:-%S"
+  401  time
+  402  time ls -la
+  403  time ps-ef
+  404  sleep 5
+  405  cp f1.txt
+  406  cp f1.txt f3.txt
+  407  ls
+  408  mv f1.txt f4.txt
+  409  ls
+  410  wc -l f4.txt
+  411  cat f4.txt
+  412  nano f4.txt
+  413  wc -l f4.txt
+  414  wc -l f4.txt|awk '{print $1}'
+  415  v1=wc -l f4.txt|awk '{print $1}'
+  416  v1=`wc -l f4.txt|awk '{print $1}'`
+  417  echo $v1
+  418  nano f4.txt
+  419  nano miprimershellscript.sh
+  420  wc -l miprimershellscript.sh.txt|awk '{print $1}'
+  421  wc -l miprimershellscript.sh|awk '{print $1}'
+  422  nano miprimershellscript.sh 
+  423  tail /etc/passwd
+  424* 
+  425  head -3 /etc/passwd
+  426  echo "hostname"
+  427  echo $hostname
+  428  echo $HOSTNAME
+  429  ECHO $path
+  430  echo  $PATH
+  431  echo  $SHELL
+  432  echo  $USER
+  433  echo  $LOGNAME
+  434  dir
+  435  alias direc="ls -l"
+  436  direc
+  437  history
+  438  history>historial2309
+  439  history
+  440  history>>histo2
+  441  history
+  442  history>histo2
