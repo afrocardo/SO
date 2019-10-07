@@ -1,0 +1,182 @@
+puesto@puesto9:~$ nano ejerciciofuncion.sh
+puesto@puesto9:~$ bash ejerciciofuncion.sh
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Despues de llamar a f1
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Despues de llamar a f1
+puesto@puesto9:~$ nano
+Use «fg» para volver a nano.
+
+[1]+  Detenido                nano
+puesto@puesto9:~$ nano ejerciciofuncion.sh
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Devuelto k
+Despues de llamar a f1
+puesto@puesto9:~$ nano ejerciciofuncion.sh
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Devuelto k
+Despues de llamar a f1
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Devuelto k
+Despues de llamar a f1
+puesto@puesto9:~$ nano ejerciciofuncion.sh
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Devuelto 2
+Despues de llamar a f1
+puesto@puesto9:~$ nano ejerciciofuncion.sh
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Devuelto 2
+Despues de llamar a f1
+puesto@puesto9:~$ nano ejemploscriptwhileshell.sh
+puesto@puesto9:~$ bash ejerciciofuncion.sh j k g
+Antes de llamar la funcion
+En f1
+0= ejerciciofuncion.sh
+1= a
+2= 1
+*= a 1 5
+#= 3
+Devuelto 2
+Despues de llamar a f1
+puesto@puesto9:~$ bash ejemploscriptwhileshell.sh
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+Use «fg» para volver a nano.
+
+[2]+  Detenido                nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ bash ejemploscriptwhileshell.sh
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+Use «fg» para volver a nano.
+
+[3]+  Detenido                nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ nano ejemploscriptwhileshell.sh
+Use «fg» para volver a nano.
+
+[4]+  Detenido                nano ejemploscriptwhileshell.sh
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+Use «fg» para volver a nano.
+
+[5]+  Detenido                nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh
+ejemploscriptuntilshell.sh: línea 1: [: .gt: se esperaba un operador binario
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh
+ejemploscriptuntilshell.sh: línea 11: 1: orden no encontrada
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+Use «fg» para volver a nano.
+
+[6]+  Detenido                nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh 1 2 3 4
+Use «fg» para volver a nano.
+
+[7]+  Detenido                nano ejemploscriptuntilshell.sh 1 2 3 4
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh 1 2 3 4
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 1: 1
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 2: 2
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 3: 3
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 4: 4
+ejemploscriptuntilshell.sh: línea 11: 1: orden no encontrada
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh 1 2 3 4
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 1: 1
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 2: 2
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 3: 3
+ejemploscriptuntilshell.sh: línea 3: [: falta un `]'
+Parámetro 4: 4
+ejemploscriptuntilshell.sh: línea 11: 1: orden no encontrada
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh 1 2 3 4
+ejemploscriptuntilshell.sh: línea 4: [: falta un `]'
+Parámetro 1: 1
+ejemploscriptuntilshell.sh: línea 4: [: falta un `]'
+Parámetro 2: 2
+ejemploscriptuntilshell.sh: línea 4: [: falta un `]'
+Parámetro 3: 3
+ejemploscriptuntilshell.sh: línea 4: [: falta un `]'
+Parámetro 4: 4
+puesto@puesto9:~$ nano ejemploscriptuntilshell.sh
+puesto@puesto9:~$ bash ejemploscriptuntilshell.sh 1 2 3 4
+Parámetro 1: 1
+Parámetro 2: 2
+Parámetro 3: 3
+Parámetro 4: 4
+puesto@puesto9:~$ nano gestioncitas.sh 
+puesto@puesto9:~$ 
+
