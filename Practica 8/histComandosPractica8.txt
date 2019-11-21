@@ -1,0 +1,489 @@
+    1  gcc -o segundoprograma  segundoprograma.c
+    2  ./segundoprograma
+    3  gcc -o segundoprograma  segundoprograma.c
+    4  ./segundoprograma
+    5  nano segundoprograma.c
+    6  bash segundoprograma.c
+    7  ./segundoprograma
+    8  bash segundoprograma.c
+    9  top
+   10  nano segundoprograma.c
+   11  bash segundoprograma.c
+   12  nano segundoprograma.c
+   13  d559d351309ab4b702975abffae0663ffe6378cf7402c4bcb2f9b2b2f42ac7d017d7aa05f89ee523cab72d89c79d9fbc5ef692dfbb3f56d3993acd1f34cf1285  apache-cassandra-3.11.5-bin.tar.gz
+   14  [cassandra]
+   15  name=Apache Cassandra
+   16  baseurl=https://www.apache.org/dist/cassandra/redhat/311x/
+   17  gpgcheck=1
+   18  repo_gpgcheck=1
+   19  gpgkey=https://www.apache.org/dist/cassandra/KEYS
+   20  sudo yum install cassandra
+   21  mkdir -p ~/opt/packages/cassandra/
+   22  curl -O http://www-us.apache.org/dist/cassandra/3.5/apache-cassandra-3.5-bin.tar.gz
+   23  tar xzvf apache-cassandra-3.5-bin.tar.gz
+   24  /Users/ricardomezadiaz/Desktop/primerprograma ; exit;
+   25  cd Applications/
+   26  bash primerprograma
+   27  ;2C
+   28  /Users/ricardomezadiaz/Desktop/primerprograma ; exit;
+   29  bash practica1.sh
+   30  bash practica1.sh
+   31  bash practica1.sh
+   32  bash practica1.sh
+   33  bash practica1.sh
+   34  bash practica1.sh
+   35  bash practica1.sh
+   36  bash practica1.sh
+   37  bash practica1.sh
+   38  bash practica1.sh
+   39  bash practica1.sh
+   40  bash practica1.sh
+   41  bash practica1.sh
+   42  bash practica1.sh
+   43  nano practica1.sh 
+   44  open -a-a Eclipse.app
+   45  open -a -n Eclipse.app
+   46  cd Applications/
+   47  open -a -n Eclipse.app
+   48  killall
+   49  killall Spotify
+   50  /Users/ricardomezadiaz/tercerprograma ; exit;
+   51  /Users/ricardomezadiaz/Desktop/segundoprogramaenc ; exit;
+   52  killall Spotify
+   53  bash practica1.sh 
+   54  cd Desktop/
+   55  bash practica1.sh
+   56  cd
+   57  bash practica1.sh
+   58  bash practica1.sh
+   59  bash practica1.sh
+   60  bash practica1.sh
+   61  bash practica1.sh
+   62  bash practica1.sh
+   63  bash practica1.sh
+   64  bash practica1.sh
+   65  bash practica1.sh
+   66  bash practica1.sh
+   67  bash practica1.sh
+   68  bash practica1.sh
+   69  bash practica1.sh
+   70  bash practica1.sh
+   71  bash practica1.sh
+   72  bash practica1.sh
+   73  bash practica1.sh
+   74  bash practica1.sh
+   75  bash practica1.sh
+   76  bash practica1.sh
+   77  bash practica1.sh
+   78  bash practica1.sh
+   79  nano segundoprograma.c 
+   80  gcc -o tercerprograma tercerprograma.c 
+   81  nano tercerprograma.c 
+   82  gcc -o tercerprograma tercerprograma.c 
+   83  nano tercerprograma.c 
+   84  nano segundoprograma.c 
+   85  nano tercerprograma.c 
+   86  gcc -o tercerprograma tercerprograma.c 
+   87  nano tercerprograma.c 
+   88  gcc -o tercerprograma tercerprograma.c 
+   89  nano tercerprograma.c 
+   90  gcc -o tercerprograma tercerprograma.c 
+   91  bash tercerprograma.c 
+   92  nano tercerprograma.c 
+   93  gcc -o tercerprograma tercerprograma.c 
+   94  nano tercerprograma.c 
+   95  gcc -o tercerprograma tercerprograma.c 
+   96  bash tercerprograma.c 
+   97  nano tercerprograma.c 
+   98  bash tercerprograma.c 
+   99  gcc -o tercerprograma tercerprograma.c 
+  100  bash tercerprograma.c 
+  101  nano tercerprograma.c 
+  102  nano tercerprograma.c 
+  103  gcc -o tercerprograma tercerprograma.c 
+  104  nano ejercicio3.c
+  105  gcc -o ejercicio3 ejercicio3.c 
+  106  nano ejercicio3.c
+  107  nano ejercicio3.c
+  108  bash ejercicio3.c
+  109  nano ejercicio3.c
+  110  bash ejercicio3.c
+  111  nano ejercicio3.c
+  112  nano ejercicio3.c
+  113  nano ejercicio3.c
+  114  bash ejercicio3.c
+  115  bash ejercicio3gestionprocesos.c 
+  116  bash ejercicio3gestionprocesos.c 
+  117  gcc -o ejercicio3gestionprocesos ejercicio3gestionprocesos.c.c 
+  118  cd Applications/
+  119  open -n -a Eclipse.app
+  120  /Users/ricardomezadiaz/.android/modem-nv-ram-5554 ; exit;
+  121  sudo emulator -list-avds
+  122  cd .android/ç
+  123  cd .android/
+  124  ls
+  125  cd avd/
+  126  emulator -list-avds
+  127  ls
+  128  Nexus_5X_API_28.avd
+  129  emulator
+  130  vi ~/.bash_profile 
+  131  export ANDROID_HOME=/Users/{YourUsername}/Library/Android/sdk/
+  132  alias run-emulator="$ANDROID_HOME/emulator/emulator @Pixel_XL_API_27"
+  133  vi ~/.bash_profile 
+  134  cd
+  135  nano  ~/.bash_profile 
+  136  vi ~/.bash_profile 
+  137  nano  ~/.bash_profile 
+  138  run-emulator
+  139  nano  ~/.bash_profile 
+  140  run-emulator
+  141  emilator
+  142  emulator
+  143  avdmanager
+  144  android
+  145  nano practica1.sh 
+  146  bash  practica1.sh 
+  147  bash  practica1.sh
+  148  nano practica1.sh
+  149  bash  practica1.sh
+  150  nano practica1.sh
+  151  bash  practica1.sh
+  152  bash  practica1.sh
+  153  nano practica1.sh
+  154  bash  practica1.sh
+  155  nano practica1.sh
+  156  bash  practica1.sh
+  157  nano practica1.sh
+  158  bash  practica1.sh
+  159  nano practica1.sh
+  160  cd Applications/
+  161  open -n -a Eclipse.app
+  162  cd Portfolio-Generator-master/
+  163  pip install -r requirements.txt
+  164  pip install --upgrade pip
+  165  pip install -r requirements.txt
+  166  python manage.py runserver
+  167  pip install Django==2.2.7
+  168  cd
+  169  pip install Django==2.2.7
+  170  cd Portfolio-Generator-master/
+  171  python manage.py makemigrations
+  172  python manage.py migrate
+  173  cd
+  174  pip install virtualenv
+  175  mkdir python-virtual-environments && cd python-virtual-environments
+  176  python3 -m venv env
+  177  cd
+  178  cd Portfolio-Generator-master/
+  179  python manage.py makemigrations
+  180  pip install -r requirements.txt
+  181  pip install -r requirements.txt
+  182  pip install -r requirements.txtpip install django
+  183  pip install django
+  184  python manage.py makemigrations
+  185  pip install -r requirements.txt
+  186  pip install -r requirements.txt
+  187  pip install -r requirements.txt
+  188  python manage.py makemigrations
+  189  python manage.py migrate
+  190  python manage.py runserver
+  191  bash practica1.sh
+  192  bash practica1.sh
+  193  bash matricesshellscript.sh 
+  194  bash matricesshellscript.sh 
+  195  bash matricesshellscript.sh 
+  196  bash matricesshellscript.sh 
+  197  cd Applications/
+  198  open -n -a Eclipse.app
+  199  bash practica1.sh
+  200  cat usuarios.csv 
+  201  cat usuarios.csv 
+  202  bash practica1.sh
+  203  nano practica1.sh 
+  204  bash practica1.sh
+  205  nano practica1.sh 
+  206  bash practica1.sh
+  207  bash practica1.sh
+  208  bash practica1.sh
+  209  bash practica1.sh
+  210  bash practica1.sh
+  211  bash practica1.sh
+  212  bash practica1.sh
+  213  bash practica1.sh
+  214  bash practica1.sh
+  215  bash practica1.sh
+  216  bash meter
+  217  bash meterdatosenMatriz.sh 
+  218  bash mostrarElementosMatriz.sh 
+  219  bash meterdatosenMatriz.sh 
+  220  bash mostrarElementosMatriz.sh 
+  221  bash meterdatosenMatriz.sh 
+  222  bash meterdatosenMatriz.sh 
+  223  bash meterdatosenMatriz.sh 
+  224  bash meterdatosenMatriz.sh 
+  225  bash meterdatosenMatriz.sh 
+  226  bash meterdatosenMatriz.sh 
+  227  bash meterdatosenMatriz.sh 
+  228  bash meterdatosenMatriz.sh 
+  229  bash meterdatosenMatriz.sh 
+  230  bash meterdatosenMatriz.sh 
+  231  bash meterdatosenMatriz.sh 
+  232  bash meterdatosenMatriz.sh 
+  233  bash meterdatosenMatriz.sh 
+  234  bash meterdatosenMatriz.sh 
+  235  bash practica1.sh 
+  236  sort --help
+  237  sort  -k 2 usuarios.csv>>prueba.csv
+  238  ls
+  239  cat prueba
+  240  cat prueba.csv
+  241  nano practica1.sh 
+  242  bash practica1.sh 
+  243  bash practica1.sh 
+  244  nano practica1.sh 
+  245  nano practica1.sh 
+  246  bash practica1.sh 
+  247  nano practica1.sh 
+  248  bash ejercicio3.sh
+  249  nano ejercicio3gestionprocesos.c 
+  250  signt -l
+  251  sigint -l
+  252  sig -l
+  253  sing -l
+  254  kill -l
+  255  kill -l WhatsApp
+  256  kill 9 WhatsApp
+  257  kill -9 WhatsApp
+  258  kill -9 95944
+  259  gcc -o ejerciciosignal ejerciciosignal.c 
+  260  gcc -o ejerciciosignal ejerciciosignal.c 
+  261  gcc -o ejerciciosignal ejerciciosignal.c 
+  262  gcc -o ejerciciosignal ejerciciosignal.c 
+  263  gcc -o ejerciciosignal ejerciciosignal.c 
+  264  gcc -o ejerciciosignal ejerciciosignal.c 
+  265  gcc -o ejerciciosignal ejerciciosignal.c 
+  266  gcc -o ejerciciosignal ejerciciosignal.c 
+  267  gcc -o ejerciciosignal ejerciciosignal.c 
+  268  ./ejerciciosignal 
+  269  ./ejerciciosignal 
+  270  ./ejerciciosignal 
+  271  gcc -o ejerciciosignal ejerciciosignal.c 
+  272  ./ejerciciosignal 
+  273  gcc -o ejerciciosignal ejerciciosignal.c 
+  274  ./ejerciciosignal 
+  275  history
+  276  ps -ef
+  277  ps -ef
+  278  ps -ef
+  279  kill -3 97305
+  280  ps -ef
+  281  kill -l
+  282  kill -2 97346
+  283  ps -ef
+  284  kill -3 97378
+  285  kill -3 97378
+  286  kill -3 97378
+  287  kill -3 97378
+  288  kill -3 97378
+  289  ps -ef
+  290  kill -3 97438 
+  291  kill -3 97438 
+  292  kill -3 97438 
+  293  kill -3 97438 
+  294  kill -3 97438 
+  295  kill -3 97438 
+  296  kill -3 97438 
+  297  kill -3 97438 
+  298  kill -3 97438 
+  299  nano practica1.sh 
+  300  nano practica1.sh 
+  301  bash  practica1.sh 
+  302  nano practica1.sh 
+  303  nano practica1.sh 
+  304  bash  practica1.sh 
+  305  nano practica1.sh 
+  306  bash  practica1.sh 
+  307  nano practica1.sh 
+  308  bash  practica1.sh 
+  309  nano practica1.sh 
+  310  bash  practica1.sh 
+  311  nano practica1.sh 
+  312  bash  practica1.sh 
+  313  nano practica1.sh 
+  314  bash  practica1.sh 
+  315  nano practica1.sh 
+  316  bash  practica1.sh 
+  317  bash  practica1.sh 
+  318  bash  practica1.sh 
+  319  bash  practica1.sh 
+  320  bash  practica1.sh 
+  321  bash  practica1.sh 
+  322  bash  practica1.sh 
+  323  bash  practica1.sh 
+  324  bash  practica1.sh 
+  325  bash  practica1.sh 
+  326  bash  practica1.sh 
+  327  bash  practica1.sh 
+  328  bash  practica1.sh 
+  329  bash  practica1.sh 
+  330  bash  practica1.sh 
+  331  bash  practica1.sh 
+  332  bash  practica1.sh 
+  333  bash  practica1.sh 
+  334  bash  practica1.sh 
+  335  bash  practica1.sh 
+  336  bash  practica1.sh 
+  337  bash  practica1.sh 
+  338  bash  practica1.sh 
+  339  bash  practica1.sh 
+  340  bash  practica1.sh 
+  341  bash  practica1.sh 
+  342  bash  practica1.sh 
+  343  bash  practica1.sh 
+  344  bash  practica1.sh 
+  345  bash  practica1.sh 
+  346  bash  practica1.sh 
+  347  bash  practica1.sh 
+  348  bash  practica1.sh 
+  349  bash  practica1.sh 
+  350  bash  practica1.sh 
+  351  bash  practica1.sh 
+  352  bash  practica1.sh 
+  353  bash  practica1.sh 
+  354  bash  practica1.sh 
+  355  bash  practica1.sh 
+  356  bash  practica1.sh 
+  357  bash  practica1.sh 
+  358  bash  practica1.sh 
+  359  bash  practica1.sh 
+  360  bash  cadenas.sh
+  361  bash  cadenas.sh
+  362  bash  cadenas.sh
+  363  bash  cadenas.sh
+  364  bash  cadenas.sh
+  365  bash  cadenas.sh
+  366  bash  cadenas.sh
+  367  bash  cadenas.sh
+  368  bash  cadenas.sh
+  369  bash  cadenas.sh
+  370  bash  cadenas.sh
+  371  bash  cadenas.sh
+  372  bash  cadenas.sh
+  373  bash  cadenas.sh
+  374  bash  cadenas.sh
+  375  bash  cadenas.sh
+  376  bash  cadenas.sh
+  377  bash  cadenas.sh
+  378  bash  cadenas.sh
+  379  bash  cadenas.sh
+  380  bash  cadenas.sh
+  381  bash  cadenas.sh
+  382  bash  cadenas.sh
+  383  bash  cadenas.sh
+  384  bash  cadenas.sh
+  385  bash  cadenas.sh
+  386  bash  cadenas.sh
+  387  bash  cadenas.sh
+  388  bash  cadenas.sh
+  389  bash  cadenas.sh
+  390  bash  cadenas.sh
+  391  bash  cadenas.sh
+  392  bash  cadenas.sh
+  393  bash  cadenas.sh
+  394  bash  cadenas.sh
+  395  bash  cadenas.sh
+  396  bash  cadenas.sh
+  397  bash  cadenas.sh
+  398  bash  cadenas.sh
+  399  bash  cadenas.sh
+  400  bash  cadenas.sh
+  401  bash  cadenas.sh
+  402  bash  cadenas.sh
+  403  bash  cadenas.sh
+  404  bash  cadenas.sh
+  405  column -t -s"," usuariose.csv
+  406  column -t -s";" usuarios.csv
+  407  bash  cadenas.sh
+  408  bash  cadenas.sh
+  409  bash  cadenas.sh
+  410  bash  cadenas.sh
+  411  bash  cadenas.sh
+  412  bash  cadenas.sh
+  413  bash  cadenas.sh
+  414  bash  cadenas.sh
+  415  bash  cadenas.sh
+  416  bash  cadenas.sh
+  417  bash  cadenas.sh
+  418  bash  cadenas.sh
+  419  bash  cadenas.sh
+  420  bash  cadenas.sh
+  421  bash  cadenas.sh
+  422  bash  cadenas.sh
+  423  bash  cadenas.sh
+  424  bash  cadenas.sh
+  425  cd Applications/
+  426  open -n -a Chrome.app
+  427  open -n -a GoogleChrome.app
+  428  bash  cadenas.sh
+  429  cd
+  430  bash  cadenas.sh
+  431  bash  cadenas.sh
+  432  bash  cadenas.sh
+  433  mongod
+  434  brew update
+  435  brew install mongodb
+  436  brew upgrade mongodb 
+  437  brew services stop mongodb
+  438  brew install mongodb
+  439  bash cadenas.sh 
+  440  bash cadenas.sh 
+  441  bash cadenas.sh 
+  442  bash cadenas.sh 
+  443  bash cadenas.sh 
+  444  bash cadenas.sh 
+  445  bash cadenas.sh 
+  446  bash cadenas.sh 
+  447  bash cadenas.sh 
+  448  bash cadenas.sh 
+  449  bash cadenas.sh 
+  450  bash cadenas.sh 
+  451  bash cadenas.sh 
+  452  bash cadenas.sh 
+  453  bash cadenas.sh 
+  454  bash cadenas.sh 
+  455  bash cadenas.sh 
+  456  bash cadenas.sh 
+  457  bash cadenas.sh 
+  458  cd Applications/
+  459  open -n -a Eclipse.app
+  460  cd 
+  461  bash practica1.sh
+  462  bash practica1.sh
+  463  bash practica1.sh
+  464  bash practica1.sh
+  465  bash practica1.sh
+  466  bash practica1.sh
+  467  bash practica1.sh
+  468  bash practica1.sh
+  469  bash practica1.sh
+  470  bash practica1.sh
+  471  bash practica1.sh
+  472  bash practica1.sh
+  473  bash practica1.sh
+  474  bash practica1.sh
+  475  bash practica1.sh
+  476  bash practica1.sh
+  477  bash practica1.sh
+  478  bash practica1.sh
+  479  bash practica1.sh
+  480  bash practica1.sh
+  481  bash practica1.sh
+  482  bash practica1.sh
+  483  bash practica1.sh
+  484  bash practica1.sh
+  485  bash practica1.sh
+  486  bash practica1.sh
+  487  /Users/ricardomezadiaz/ejerciciosignal ; exit;
+  488  history
+  489  history >>histComandosPractica8.txt

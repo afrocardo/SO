@@ -79,7 +79,7 @@ function menuSwitch(){
 }
 
 #Main
-#menu
+menu1
 menuSwitch
 
 
